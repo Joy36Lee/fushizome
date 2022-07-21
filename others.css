@@ -416,11 +416,6 @@ nav .since {
 }
 
 @media (max-width:992px) {
-    .other-bn{
-        /* background-attachment: scroll; */
-        background-size: auto;
-    }
-
     .other-bn h1 {
         font-size: 3.8em;
         letter-spacing: 0.5rem;
