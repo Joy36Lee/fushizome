@@ -8,7 +8,6 @@
 
 body {
     font-family: "Noto Serif TC", "Noto Serif", "sans-serif";
-    box-sizing: border-box;
 }
 
 /* ------------改變游標------------ */
@@ -42,9 +41,11 @@ body {
     background: #7F4E25 url(./images/loading.gif) center center no-repeat;
     background-size: 8%;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     position: fixed;
     z-index: 9999999;
+    
+    box-sizing: border-box;
 }
 
 @media (max-width:992px) {
