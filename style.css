@@ -4,6 +4,26 @@
 
 * {
     margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style:none;
+}
+
+img{
+    vertical-align:top;
+    border:none;
+}
+
+/* 清除內外邊距 */
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, /* structural elements 結構元素 */
+dl, dt, dd, ul, ol, li, /* list elements 列表元素 */
+pre, /* text formatting elements 文字格式元素 */
+fieldset, lengend, button, input, textarea, /* form elements 表單元素 */
+th, td { /* table elements 表格元素 */
+    margin: 0;
+    padding: 0;
 }
 
 body {
