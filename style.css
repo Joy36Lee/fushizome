@@ -353,19 +353,24 @@ header {
 }
 
 @media (max-width:992px) {
+    .slogan {
+        right: 10vw;
+        top: 10%;
+    }
+
     .slogan p {
         font-size: 1.8rem;
     }
 
     .slogan strong {
-        margin-right: 40px;
+        margin-right: 30px;
     }
 }
 
 @media (max-width:767px) {
     .slogan {
-        right: 6vw;
-        top: 14%;
+        right: 5vh;
+        top: 16%;
     }
 
     .slogan p {
