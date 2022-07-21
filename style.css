@@ -9,6 +9,8 @@
 
 body {
     font-family: "Noto Serif TC", "Noto Serif", "sans-serif";
+    position: relative;
+    overflow-x: hidden;
 }
 
 /* ------------改變游標------------ */
