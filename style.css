@@ -8,6 +8,7 @@
 
 body {
     font-family: "Noto Serif TC", "Noto Serif", "sans-serif";
+    box-sizing: border-box;
 }
 
 /* ------------改變游標------------ */
