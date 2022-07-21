@@ -339,7 +339,7 @@ header {
 
 @media (max-width:1400px) {
     .slogan {
-        right: 8%;
+        right: 8vw;
         top: 8%;
     }
 
@@ -364,7 +364,7 @@ header {
 
 @media (max-width:767px) {
     .slogan {
-        right: 6%;
+        right: 6vw;
         top: 14%;
     }
 
